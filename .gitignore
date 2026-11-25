@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.tsbuildinfo
+.DS_Store
+
+# local-only files
+_backup_*/
+*.zip
+Thommage_Tharushika_Jansa.pdf
+.claude/
